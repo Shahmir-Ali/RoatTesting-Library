@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1599475818 source:d:\devc++\road_generation_code\roadtesting\main.cpp
+	"Map.h"
+
+1599475831 d:\devc++\road_generation_code\roadtesting\map.h
+	"Road.h"
+	<vector>
+	<string>
+
+1599473221 d:\devc++\road_generation_code\roadtesting\road.h
+	<vector>
+	"Lane.h"
+
+1599473205 d:\devc++\road_generation_code\roadtesting\lane.h
+	<vector>
+
+1599475702 source:d:\devc++\road_generation_code\roadtesting\map.cpp
+	"Map.h"
+	"Lane.h"
+	"Road.h"
+	"picojson.h"
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+
+1599136996 d:\devc++\road_generation_code\roadtesting\picojson.h
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cstddef>
+	<iostream>
+	<iterator>
+	<limits>
+	<map>
+	<stdexcept>
+	<string>
+	<vector>
+	<utility>
+	<cmath>
+	<float.h>
+	<mathimf.h>
+	<math.h>
+	<cerrno>
+	<cinttypes>
+	<inttypes.h>
+	<locale.h>
+
+1599473233 source:d:\devc++\road_generation_code\roadtesting\lane.cpp
+	"Lane.h"
+
+1599473227 source:d:\devc++\road_generation_code\roadtesting\road.cpp
+	"Road.h"
+
